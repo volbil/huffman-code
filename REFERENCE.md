@@ -113,10 +113,6 @@ The easiest way to output the huffman tree itself is to, starting at the root, d
          recursion return
 ```
 
-So the partial tree can be represented with 
-
-**00010001001101000110010**
-
-,  or **23** bits.  Not bad!
+So the partial tree can be represented with **00010001001101000110010**, or **23** bits. Not bad!
 
 Source: https://www.siggraph.org/education/materials/HyperGraph/video/mpeg/mpegfaq/huffman_tutorial.html
